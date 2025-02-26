@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Philosophy on Jack Bloomfeld</title>
+    <link>https://jackbl1.github.io/tags/philosophy/</link>
+    <description>Recent content in Philosophy on Jack Bloomfeld</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://jackbl1.github.io/tags/philosophy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>biological intelligence vs silicon intelligence</title>
+      <link>https://jackbl1.github.io/posts/biological-intelligence-vs-silicon-intelligence/</link>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
+      <guid>https://jackbl1.github.io/posts/biological-intelligence-vs-silicon-intelligence/</guid>
+      <description>classifying differences in intelligence</description>
+    </item>
+    <item>
+      <title>building technology because &#39;we can&#39; rather than &#39;we should&#39;</title>
+      <link>https://jackbl1.github.io/posts/building-technology/</link>
+      <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
+      <guid>https://jackbl1.github.io/posts/building-technology/</guid>
+      <description>thoughts on motivations</description>
+    </item>
+  </channel>
+</rss>

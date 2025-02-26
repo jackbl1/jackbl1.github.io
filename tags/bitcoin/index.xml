@@ -6,8 +6,15 @@
     <description>Recent content in Bitcoin on Jack Bloomfeld</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 21 Apr 2023 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://jackbl1.github.io/tags/bitcoin/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>my bets on web3 - round 3</title>
+      <link>https://jackbl1.github.io/posts/my-bets-on-web3-round-3/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://jackbl1.github.io/posts/my-bets-on-web3-round-3/</guid>
+      <description>some opinions I hold regarding web3</description>
+    </item>
     <item>
       <title>my bets on web3 - round 2</title>
       <link>https://jackbl1.github.io/posts/my-bets-on-web3-round-2/</link>
@@ -20,7 +27,7 @@
       <link>https://jackbl1.github.io/posts/building-a-mental-model-of-bitcoin/</link>
       <pubDate>Wed, 21 Dec 2022 00:00:00 +0000</pubDate>
       <guid>https://jackbl1.github.io/posts/building-a-mental-model-of-bitcoin/</guid>
-      <description>How to understand Bitcoin more correctly</description>
+      <description>how to understand Bitcoin more correctly</description>
     </item>
     <item>
       <title>some common arguments against blockchain</title>
