@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jack Bloomfeld</title>
-    <link>https://jackbl1.github.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on Jack Bloomfeld</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jackbl1.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Bitcoin</title>
-      <link>https://jackbl1.github.io/tags/bitcoin/</link>
+      <link>http://localhost:1313/tags/bitcoin/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://jackbl1.github.io/tags/bitcoin/</guid>
+      <guid>http://localhost:1313/tags/bitcoin/</guid>
       <description></description>
     </item>
     <item>
       <title>Blockchain</title>
-      <link>https://jackbl1.github.io/tags/blockchain/</link>
+      <link>http://localhost:1313/tags/blockchain/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://jackbl1.github.io/tags/blockchain/</guid>
+      <guid>http://localhost:1313/tags/blockchain/</guid>
       <description></description>
     </item>
     <item>
       <title>Predictions</title>
-      <link>https://jackbl1.github.io/tags/predictions/</link>
+      <link>http://localhost:1313/tags/predictions/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://jackbl1.github.io/tags/predictions/</guid>
+      <guid>http://localhost:1313/tags/predictions/</guid>
       <description></description>
     </item>
     <item>
       <title>AI</title>
-      <link>https://jackbl1.github.io/tags/ai/</link>
+      <link>http://localhost:1313/tags/ai/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://jackbl1.github.io/tags/ai/</guid>
+      <guid>http://localhost:1313/tags/ai/</guid>
       <description></description>
     </item>
     <item>
       <title>Philosophy</title>
-      <link>https://jackbl1.github.io/tags/philosophy/</link>
+      <link>http://localhost:1313/tags/philosophy/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://jackbl1.github.io/tags/philosophy/</guid>
+      <guid>http://localhost:1313/tags/philosophy/</guid>
       <description></description>
     </item>
   </channel>

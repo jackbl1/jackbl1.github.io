@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>AI on Jack Bloomfeld</title>
-    <link>https://jackbl1.github.io/tags/ai/</link>
+    <link>http://localhost:1313/tags/ai/</link>
     <description>Recent content in AI on Jack Bloomfeld</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 12 Jul 2023 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://jackbl1.github.io/tags/ai/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/ai/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>biological intelligence vs silicon intelligence</title>
-      <link>https://jackbl1.github.io/posts/biological-intelligence-vs-silicon-intelligence/</link>
+      <link>http://localhost:1313/posts/biological-intelligence-vs-silicon-intelligence/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
-      <guid>https://jackbl1.github.io/posts/biological-intelligence-vs-silicon-intelligence/</guid>
+      <guid>http://localhost:1313/posts/biological-intelligence-vs-silicon-intelligence/</guid>
       <description>classifying differences in intelligence</description>
     </item>
     <item>
       <title>building technology because &#39;we can&#39; rather than &#39;we should&#39;</title>
-      <link>https://jackbl1.github.io/posts/building-technology/</link>
+      <link>http://localhost:1313/posts/building-technology/</link>
       <pubDate>Sat, 06 May 2023 00:00:00 +0000</pubDate>
-      <guid>https://jackbl1.github.io/posts/building-technology/</guid>
+      <guid>http://localhost:1313/posts/building-technology/</guid>
       <description>thoughts on motivations</description>
     </item>
   </channel>
